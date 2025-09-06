@@ -3,6 +3,7 @@ This project focuses on analyzing supermarket sales data using SQL. It began wit
 
 # CSV file 
 The csv file provided in the repository is used in the project. 
+
 Dataset source - https://www.kaggle.com/datasets/bravehart101/sample-supermarket-dataset
 
 # Project Summary
