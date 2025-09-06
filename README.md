@@ -1,13 +1,11 @@
 # Supermarket Sales Analysis using SQL
 This project focuses on analyzing supermarket sales data using SQL. It began with formulating  specific queries to extract meaningful insights from a dataset. The goal is to derive insights that can help improve sales performance and drive business strategies. 
 
-# CSV file 
-The csv file provided in the repository is used in the project. 
-
-Dataset source - https://www.kaggle.com/datasets/bravehart101/sample-supermarket-dataset
+ # Dataset source - https://www.kaggle.com/datasets/bravehart101/sample-supermarket-dataset
 
 # Project Summary
 For this project, I worked on a Superstore Sales dataset and executed 25 SQL queries to extract meaningful business insights. The project involved applying a wide range of SQL concepts and techniques to analyze sales performance, customer behavior, and overall business trends.
+
 I utilized filtering with WHERE, grouping data with GROUP BY and HAVING, and also implemented a self-join to answer more complex questions. Additionally, I applied aggregate functions such as SUM(), AVG(), COUNT(), MIN(), and MAX() to summarize key metrics like total revenue, average sales, and highest-selling products and categories.
 
 # Conclusion
